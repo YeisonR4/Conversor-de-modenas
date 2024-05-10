@@ -9,18 +9,15 @@
   <ol>
     <li><a href="#instalación">Instalación</a></li>
     <li><a href="#uso">Uso</a></li>
-    <li><a href="#contribuyendo">Contribuyendo</a></li>
-    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#Tecnologias utilizadas">Tecnologias utilizada</a></li>
   </ol>
 
   <h2 id="instalación">Instalación</h2>
   <p>Proporciona pasos claros sobre cómo instalar tu proyecto y las dependencias necesarias.</p>
 
   <h2 id="uso">Uso</h2>
-  <p>Explica cómo se utiliza tu proyecto. Proporciona ejemplos y capturas de pantalla si es posible.</p>
+  <p>El Conversor de Monedas es fácil de usar y ofrece una interfaz intuitiva para realizar conversiones de moneda de manera rápida y precisa. Aquí hay una guía paso a paso sobre cómo utilizar el aplicativo, se debe seleccionar la opcion de la moneda que quiere cambiar y luego ingrese el valor que desea cambiar</p>
 
-  <h2 id="contribuyendo">Contribuyendo</h2>
-  <p>Si este proyecto es open-source, describe cómo otros pueden contribuir. Incluye pautas para presentar cambios y/o reportar problemas.</p>
+  <h2 id="Tecnologias utilizadas">Contribuyendo</h2>
+  <p>Java, intellij, .</p>
 
-  <h2 id="licencia">Licencia</h2>
-  <p>Indica la licencia bajo la cual se distribuye tu proyecto. Si no estás seguro, considera incluir un archivo <code>LICENSE</code> en tu repositorio.</p>
