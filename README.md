@@ -1,7 +1,8 @@
 <h1 align="center"> Conversor de monedas </h1>
 
 
-![img conversor](https://github.com/YeisonR4/Conversor-de-modenas/assets/157259415/c4364900-0e9b-415e-b0af-9d15b843c18c)
+![img conversor]![literatura-e1564964801590](https://github.com/YeisonR4/Conversor-de-modenas/assets/157259415/400f84c1-12df-4cca-b64f-b227a56b7740)
+
 
  <p>El Conversor de Monedas es una herramienta diseñada para facilitar la conversión de diferentes tipos de monedas de manera rápida y sencilla. Este aplicativo permite a los usuarios convertir montos de una divisa a otra, proporcionando información actualizada sobre los tipos de cambio en tiempo real.</p>
 
