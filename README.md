@@ -4,7 +4,7 @@
 ![img conversor]![literatura-e1564964801590](https://github.com/YeisonR4/Conversor-de-modenas/assets/157259415/400f84c1-12df-4cca-b64f-b227a56b7740)
 
 
- <p>El Conversor de Monedas es una herramienta diseñada para facilitar la conversión de diferentes tipos de monedas de manera rápida y sencilla. Este aplicativo permite a los usuarios convertir montos de una divisa a otra, proporcionando información actualizada sobre los tipos de cambio en tiempo real.</p>
+ <p>El Foro de Discusión es una plataforma diseñada para facilitar la comunicación y el intercambio de ideas entre usuarios de manera rápida y sencilla. Este aplicativo permite a los participantes crear y responder a temas de conversación, proporcionando un espacio actualizado para el debate en tiempo real..</p>
 
   <h2>Tabla de Contenidos</h2>
   <ol>
@@ -17,7 +17,7 @@
   <p>Proporciona pasos claros sobre cómo instalar tu proyecto y las dependencias necesarias.</p>
 
   <h2 id="uso">Uso</h2>
-  <p>El Conversor de Monedas es fácil de usar y ofrece una interfaz intuitiva para realizar conversiones de moneda de manera rápida y precisa. Aquí hay una guía paso a paso sobre cómo utilizar el aplicativo, se debe seleccionar la opcion de la moneda que quiere cambiar y luego ingrese el valor que desea cambiar</p>
+  <p>El Foro de Discusión es fácil de usar y ofrece una interfaz intuitiva para participar en conversaciones de manera rápida y eficaz. Aquí hay una guía paso a paso sobre cómo utilizar la plataforma: primero, seleccione la categoría o tema del foro en el que desea participar. Luego, puede crear una nueva discusión o responder a una existente ingresando su comentario en el campo correspondiente.</p>
 
   <h2 id="Tecnologias utilizadas">Contribuyendo</h2>
   <p>Java, intellij, .</p>
